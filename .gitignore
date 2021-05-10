@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+expert_trajectories_wide/
+expert_trajectories_wide_orderless/
+runs/
